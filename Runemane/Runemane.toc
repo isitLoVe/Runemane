@@ -1,5 +1,5 @@
 ## Title: Runemane
 ## Notes: Lowers Distance in Naxxramas for Runemane
-## Version: 1.1.2
+## Version: 1.0.0
 ## Interface: 11200
 Runemane.xml
