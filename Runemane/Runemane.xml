@@ -1,0 +1,13 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/">
+<script file="Runemane.lua"/>
+	<Frame name="Runemane_EventFrame" parent="UIParent" hidden="true">
+		<Scripts>
+			<OnLoad>
+				Runemane_EventFrame_OnLoad();
+			</OnLoad>
+			<OnEvent>
+				Runemane_EventFrame_OnEvent();
+			</OnEvent>
+		</Scripts>
+	</Frame>
+</Ui>
